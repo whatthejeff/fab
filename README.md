@@ -7,7 +7,7 @@ Make your output fabulous!
 
 ## Usage
 
-[![fabulous output](https://github.com/whatthejeff/fab/raw/master/fab.png)]
+[![fabulous output](https://github.com/whatthejeff/fab/raw/master/fab.png)](https://github.com/whatthejeff/fab/raw/master/fab.png)
 
 ## Requirements
 
