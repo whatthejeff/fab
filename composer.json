@@ -1,0 +1,29 @@
+{
+    "name": "whatthejeff/fab",
+    "description": "Make your output fabulous!",
+    "keywords": ["fab","fabulous","rainbow","colorful"],
+    "homepage": "http://github.com/whatthejeff/fab",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeff Welch",
+            "email": "whatthejeff@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Fab": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
