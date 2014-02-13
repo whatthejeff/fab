@@ -19,17 +19,19 @@ The recommended way to install Fab is [through
 composer](http://getcomposer.org). Just create a `composer.json` file and
 run the `php composer.phar install` command to install it:
 
-    {
-        "require": {
-            "whatthejeff/fab": "1.0.*@dev"
-        }
+~~~json
+{
+    "require": {
+        "whatthejeff/fab": "~1.0"
     }
+}
+~~~
 
 ## Tests
 
 To run the test suite, you need [composer](http://getcomposer.org).
 
-    $ php composer.phar install --dev
+    $ php composer.phar install
     $ vendor/bin/phpunit
 
 ## Acknowledgements
