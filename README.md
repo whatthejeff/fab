@@ -11,7 +11,17 @@ Make your output fabulous!
 
 ## Requirements
 
-Fab works with PHP 5.3.3 or later.
+Fab requires:
+
+ * PHP 5.3.3 or later.
+ * A terminal emulator with support for ANSI escape sequences.
+
+**NOTE:** By default, the Windows console does not support ANSI escape
+sequences. If you'd like to use the Fab on Windows, you may want to try one of
+the following solutions:
+
+ * [ANSICON](https://github.com/adoxa/ansicon)
+ * [ConEmu](https://github.com/Maximus5/ConEmu)
 
 ## Installation
 
